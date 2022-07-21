@@ -313,7 +313,7 @@ by using "Microsoft excel" I found the correlation coefficient equal -0.64
 # 6. Act phase
 
 ### recommendations and insights
-1. Let the users enter some data manually like the weight and sleep time to improve the results since they didn't wear the devices all the time
-2. encourage the users to take more steps during the day by making daily and weekly challenges and let them to collect badges for completing those challenges and share them with others
-3. make a weekly summary and compare it with the previous week and notificate the users with it to inform them how they improve they activities
-4. notificate the users with they sleep patterns, and who didn't sleep well inform them to try to decrease the time of sedentary during the day
+1. Let the users enter some data manually like their weight and sleep time to improve the results since they didn't wear the devices all the time
+2. encourage the users to take more steps during the day by making daily and weekly challenges and let them collect badges for completing those challenges and share them with others
+3. make a weekly summary and compare it with the previous week and notificate the users with it to inform them how they improve their activities
+4. notificate the users with their sleep patterns, and those who didn't sleep well inform them to try to decrease the time of sedentary during the day
