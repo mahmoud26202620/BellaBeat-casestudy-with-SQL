@@ -1,5 +1,6 @@
 # BellaBeat-casestudy-with-SQL
-This is my first case study which I do it because it's part of Google Data Analytics Professional Certificate.
+This is my first case study as a data analyst which I do because it's part of the Google Data Analytics Professional Certificate.
+
 # introduction
  Bellabeat is a successful small company, but they have the potential to become a larger player in the
 global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
